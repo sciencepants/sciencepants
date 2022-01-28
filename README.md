@@ -1,9 +1,9 @@
 ### Science 👖
 ## Schmience 👖
 
-- 🔬Visualizing science data for your ocular consumption
+- 🔬 Visualizing science data for your ocular consumption
 
-D3, Python, Matplotlib, Plotly
+- 📊 Python, Matplotlib, Plotly, D3
 
 <!--
 **sciencepants/sciencepants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
